@@ -1,2 +1,13 @@
 # Fake
 The First
+
+
+#
+# ADDITIONAL PRODUCT PROPERTIES
+#
+ro.build.characteristics=nosdcard
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=10_202003
+
